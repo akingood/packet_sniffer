@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+venv310/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large binaries
+*.pkl
+*.h5
+*.pyd
+*.dll
+*.so
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/

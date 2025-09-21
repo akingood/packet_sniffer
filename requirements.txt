@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scapy
+datetime
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+keras
